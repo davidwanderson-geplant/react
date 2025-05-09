@@ -1,0 +1,21 @@
+.btn {
+    background-color: blue;
+    color: white;
+}
+
+.fundoPreto {
+    background-color: black;
+    color: white;
+    height: 300px;
+    width: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fundoBranco {
+    background-color: rgb(194, 194, 194);
+    color: black;
+    height: 500px;
+    width: 500px;
+}
